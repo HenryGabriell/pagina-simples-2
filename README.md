@@ -3,4 +3,4 @@ Projeto página Inicial Simples
 <hr>
 open source 👍
 <br>
-Vê ai: https://henrygabriell.github.io/projeto-cordel/
+Vê ai: https://henrygabriell.github.io/pagina-simples-2/
